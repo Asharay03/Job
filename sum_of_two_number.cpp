@@ -14,7 +14,7 @@ int main()
       for(i=j+1;i<5;i++){
       if(a[i]+a[j]==target)
       { 
-        cout<<"This is index of two number "<<j<<" "<<i<<" ";
+        cout<<"This is addition of two number at index "<<j<<" "<<i<<" ";
         return 0;
       }
       }

@@ -1,0 +1,1 @@
+ if(strings[i][j]==strings[i][j]):
